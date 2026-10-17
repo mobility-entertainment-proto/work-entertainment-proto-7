@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260">
+  <defs>
+    <linearGradient id="m" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3c19a"/><stop offset=".5" stop-color="#cd7f32"/><stop offset="1" stop-color="#7a4a1e"/></linearGradient>
+    <linearGradient id="i" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#f3c19a"/><stop offset="1" stop-color="#7a4a1e"/></linearGradient>
+  </defs>
+  <polygon points="58,0 98,0 118,96 78,96" fill="#c0392b"/>
+  <polygon points="142,0 102,0 82,96 122,96" fill="#e74c3c"/>
+  <polygon points="70,0 86,0 106,96 90,96" fill="#fff" opacity=".35"/>
+  <circle cx="100" cy="166" r="84" fill="url(#m)" stroke="#7a4a1e" stroke-width="4"/>
+  <circle cx="100" cy="166" r="66" fill="url(#i)"/>
+  <circle cx="100" cy="166" r="66" fill="none" stroke="#f3c19a" stroke-width="3" stroke-dasharray="4 5"/>
+  <g transform="translate(100 132)" fill="#f3c19a" stroke="#7a4a1e" stroke-width="2"><circle cx="-14" cy="-4" r="7"/><circle cx="14" cy="-4" r="7"/><circle cx="0" cy="-8" r="8"/><path d="M-26 12 a12 10 0 0 1 24 0z M2 12 a12 10 0 0 1 24 0z M-13 14 a13 12 0 0 1 26 0z"/></g>
+  <text x="100" y="196" font-size="56" font-weight="900" text-anchor="middle" fill="#fff" stroke="#7a4a1e" stroke-width="2" paint-order="stroke" font-family="'Hiragino Sans','Noto Sans JP',sans-serif">30</text>
+  <text x="100" y="218" font-size="13" font-weight="800" text-anchor="middle" fill="#7a4a1e" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" letter-spacing="2">TEAM</text>
+  <ellipse cx="70" cy="120" rx="18" ry="9" fill="#fff" opacity=".45" transform="rotate(-35 70 120)"/>
+</svg>

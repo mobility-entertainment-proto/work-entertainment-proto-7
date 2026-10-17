@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260">
+  <polygon points="58,0 98,0 118,96 78,96" fill="#d5d9e0"/><polygon points="142,0 102,0 82,96 122,96" fill="#c8cdd6"/>
+  <circle cx="100" cy="166" r="84" fill="#e3e7ed" stroke="#c8cdd6" stroke-width="4" stroke-dasharray="10 8"/>
+  <text x="100" y="190" font-size="64" font-weight="900" text-anchor="middle" fill="#c8cdd6" font-family="sans-serif">?</text>
+</svg>
